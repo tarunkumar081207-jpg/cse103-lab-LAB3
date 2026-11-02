@@ -1,5 +1,4 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
-# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/github/last-commit/tarunkumar081207-jpg/cse103-lab-LAB3)
 
@@ -20,3 +19,36 @@ cse103-lab-LAB3/
 ├── MARKDOWN_GUIDE.md
 ├── main.py
 └── .gitignore
+
+Skills Demonstrated
+
+Skill                                  Status
+
+Git initialisation                     Completed
+
+Meaningful commits                     Completed
+
+Remote push / pull                     Completed
+
+Markdown documentation                 Completed
+
+API interaction                        Completed
+
+How to Run
+git clone https://github.com/tarunkumar081207-jpg/cse103-lab-LAB3.git
+cd cse103-lab-LAB3
+python3 main.py
+
+Key Learning Outcomes
+Configured Git identity and initialised a local repository.
+Created commits with meaningful messages.
+Pushed and pulled changes using a GitHub remote.
+Created structured Markdown documentation.
+
+References
+Pro Git Book⁠
+GitHub Skills⁠
+Markdown Guide⁠
+EOF
+
+
